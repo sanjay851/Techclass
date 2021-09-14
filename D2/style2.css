@@ -1,0 +1,30 @@
+.one{
+    color: blue;
+}
+ .two{
+     color: red;
+  }
+    #two-id{
+      color: green;
+  }
+  .two-tag button{
+      border: none;
+      outline: none;
+      padding: 12px 16px;
+      background-color:yellow;
+  }
+  .two-btn{
+      background: green;
+  }
+
+  p{
+      background-color: red;
+  }
+
+  .two-class-1{
+      background-color: green; 
+  }
+
+  #two-id-1{
+    background-color: yellow;
+  }
